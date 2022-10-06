@@ -82,8 +82,4 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
-<<<<<<< HEAD
 # lint/reports/
-=======
-# lint/reports/
->>>>>>> 133ac4e (Android Modern Development refresher)
